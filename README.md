@@ -1,9 +1,34 @@
-# Hi! :D
+----
 
-I'm Daniooo
+<p align="center">
+  <img src= "Imgs/DanioooGIF.gif" style="width: 500px;">
+</p>
 
-A Computer Science with Cybersecurity student who has a passion for learning technology and creating interesting things with it
+----
 
-I hope you find something interesting on here :)
+## Technology I'm Familiar With
 
-Portfolio website: daniooo.com
+### Languages:
+<div align="start">
+    <img src="Imgs/Python.png" height="50px">
+    <img src="Imgs/Java.png" height="50px">
+    <img src="Imgs/CSharp.png" height="50px">
+    <img src="Imgs/CPP.png" height="50px">
+    <img src="Imgs/C.png" height="50px">
+    <img src="Imgs/HTML.png" height="50px">
+    <img src="Imgs/CSS.png" height="50px">
+    <img src="Imgs/JavaScript.png" height="50px">
+</div>
+
+### Frameworks and Tools:
+<div align="start">
+    <img src="Imgs/Django.png" height="50px">
+    <img src="Imgs/Bootstrap.png" height="50px">
+    <img src="Imgs/Tkinter.png" height="50px">
+    <img src="Imgs/VSCode.png" height="50px">
+    <img src="Imgs/VSStudio.png" height="50px">
+</div>
+
+----
+
+
